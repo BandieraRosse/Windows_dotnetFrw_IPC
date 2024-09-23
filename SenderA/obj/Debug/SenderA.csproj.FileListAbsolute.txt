@@ -1,0 +1,13 @@
+E:\vs_sourse\dotNet\SenderA\bin\Debug\SenderA.exe.config
+E:\vs_sourse\dotNet\SenderA\bin\Debug\SenderA.exe
+E:\vs_sourse\dotNet\SenderA\bin\Debug\SenderA.pdb
+E:\vs_sourse\dotNet\SenderA\bin\Debug\CopyDataStruct.dll
+E:\vs_sourse\dotNet\SenderA\bin\Debug\CopyDataStruct.pdb
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.csproj.AssemblyReference.cache
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.Properties.Resources.resources
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.csproj.GenerateResource.cache
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.csproj.CoreCompileInputs.cache
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.csproj.Up2Date
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.exe
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.pdb
+E:\vs_sourse\dotNet\SenderA\obj\Debug\SenderA.SenderA.resources

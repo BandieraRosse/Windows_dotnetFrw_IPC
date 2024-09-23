@@ -1,0 +1,6 @@
+E:\vs_sourse\dotNet\CopyDataStruct\bin\Debug\CopyDataStruct.dll
+E:\vs_sourse\dotNet\CopyDataStruct\bin\Debug\CopyDataStruct.pdb
+E:\vs_sourse\dotNet\CopyDataStruct\obj\Debug\CopyDataStruct.csproj.AssemblyReference.cache
+E:\vs_sourse\dotNet\CopyDataStruct\obj\Debug\CopyDataStruct.csproj.CoreCompileInputs.cache
+E:\vs_sourse\dotNet\CopyDataStruct\obj\Debug\CopyDataStruct.dll
+E:\vs_sourse\dotNet\CopyDataStruct\obj\Debug\CopyDataStruct.pdb

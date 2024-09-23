@@ -1,0 +1,13 @@
+E:\vs_sourse\dotNet\ReceiverB\bin\Debug\ReceiverB.exe.config
+E:\vs_sourse\dotNet\ReceiverB\bin\Debug\ReceiverB.exe
+E:\vs_sourse\dotNet\ReceiverB\bin\Debug\ReceiverB.pdb
+E:\vs_sourse\dotNet\ReceiverB\bin\Debug\CopyDataStruct.dll
+E:\vs_sourse\dotNet\ReceiverB\bin\Debug\CopyDataStruct.pdb
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.csproj.AssemblyReference.cache
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.Properties.Resources.resources
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.csproj.GenerateResource.cache
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.csproj.CoreCompileInputs.cache
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.csproj.Up2Date
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.exe
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.pdb
+E:\vs_sourse\dotNet\ReceiverB\obj\Debug\ReceiverB.ReceiverB.resources
